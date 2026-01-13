@@ -1,1 +1,1 @@
-# Streamlit
+# Develop a lightweight Streamlit app that compares the performance of two simple strategies (e.g., moving average crossover vs. RSI-based). Let the user select tickers and strategy parameters via sidebar controls.
